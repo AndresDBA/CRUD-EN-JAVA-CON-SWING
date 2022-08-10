@@ -1,8 +1,10 @@
 # CRUD DE REGISTRO DE PRODUCTOS EN JAVA
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_El proyecto hace parte de mi proceso de formacion de misiontic2022, en el cual se nos solicito realizar un CRUD de registro de una tabla de una base de datos._
 
-## Comenzando 🚀
+## Interfaz del proyecto 🚀
+![image](https://user-images.githubusercontent.com/107337313/183928891-7e17e0aa-5f74-4d6a-9559-8763473ceea4.png)
+
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
@@ -81,26 +83,11 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_En la creacion del proyecto ayudamos:_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
+* **Andrea Del Pilar Bautista Carrizosa** 
+* **Juan Diego Munar**
+* **Andres David Buitragor** 
 
 
 
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
