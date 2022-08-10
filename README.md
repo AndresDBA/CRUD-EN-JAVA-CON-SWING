@@ -58,7 +58,7 @@ _En la creacion del proyecto ayudamos:_
 
 * **Andrea Del Pilar Bautista Carrizosa** 
 * **Juan Diego Munar**
-* **Andres David Buitragor** 
+* **Andres David Buitrago** 
 
 
 
